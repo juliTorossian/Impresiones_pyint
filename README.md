@@ -38,7 +38,7 @@ Ejecutar
 ![Impresion](./imagenes/screen_impresion.png)
 
 - Diagrama BBDD
-![DiagramaBBDD](./bbdd/db_diagram.png)
+![DiagramaBBDD](./ddbb/db_diagram.png)
 
 
 ## Desarrollador
